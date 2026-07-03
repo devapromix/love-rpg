@@ -1,0 +1,11 @@
+{
+  "label": "Goblin",
+  "hp": 14,
+  "dmg": 10,
+  "speed": 22,
+  "radius": 15,
+  "range": "melee",
+  "color": [0, 0.8, 0],
+  "ranged": false,
+  "weight": 0.32
+}

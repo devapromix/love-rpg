@@ -1,0 +1,11 @@
+{
+  "label": "Ogre",
+  "hp": 50,
+  "dmg": 20,
+  "speed": 10,
+  "radius": 30,
+  "range": 80,
+  "color": [0.3, 0.3, 0.3],
+  "ranged": false,
+  "weight": 0.1
+}

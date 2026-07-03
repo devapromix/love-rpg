@@ -1,0 +1,12 @@
+{
+  "label": "Lizard",
+  "hp": 15,
+  "dmg": 5,
+  "speed": 18,
+  "radius": 15,
+  "range": "ranged",
+  "color": [1, 1, 0],
+  "ranged": true,
+  "projectile": "arrow",
+  "weight": 0.16
+}
