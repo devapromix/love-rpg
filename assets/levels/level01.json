@@ -1,0 +1,6 @@
+{
+  "title": "Goblin Forest",
+  "totalMobs": 5,
+  "spawnPool": ["goblin"],
+  "boss": "orc"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Goblin Cave",
+  "totalMobs": 9,
+  "spawnPool": ["goblin", "orc", "lizard"],
+  "boss": "ogre"
+}

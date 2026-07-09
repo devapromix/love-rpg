@@ -1,0 +1,6 @@
+{
+  "title": "Goblin Village",
+  "totalMobs": 7,
+  "spawnPool": ["goblin", "orc"],
+  "boss": "lizard"
+}
